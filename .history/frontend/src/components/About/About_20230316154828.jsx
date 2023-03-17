@@ -11,9 +11,6 @@ const About = () => {
         <div className="aboutContainer">
         <Typography> Through this portfolio, I hope to showcase my skills, knowledge, and provide insights into my personal and professional growth.
           <br />
-          <br />
-          <br />
-          <br />
            <b>Thank you for taking the time to visit my page, and I look forward to connecting with you soon.</b></Typography>
         </div>
 

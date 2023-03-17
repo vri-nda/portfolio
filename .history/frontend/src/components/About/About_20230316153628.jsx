@@ -9,12 +9,7 @@ const About = () => {
     <div className="about" >
 
         <div className="aboutContainer">
-        <Typography> Through this portfolio, I hope to showcase my skills, knowledge, and provide insights into my personal and professional growth.
-          <br />
-          <br />
-          <br />
-          <br />
-           <b>Thank you for taking the time to visit my page, and I look forward to connecting with you soon.</b></Typography>
+        <Typography> Code is like humor. When you have to explain it, it’s bad.</Typography>
         </div>
 
         <div className="aboutContainer2">
@@ -34,17 +29,13 @@ const About = () => {
             <div>
                 <Typography 
                 style={{
-                    wordSpacing: "3px",
+                    wordSpacing: "2px",
                     lineHeight: "30px",
-                    letterSpacing: "2px",
+                    letterSpacing: "3px",
                     textAlign: "center",
                   }}
                   >  
-                  My passion for <b>computers science engineering</b> started at a young age, and since then, I have been actively pursuing my dreams of becoming a <b>full stack web developer</b>. Throughout my academic journey, I have consistently maintained a strong academic record, achieving <b>9.2 CGPA</b> in my first year.
-                  <br />
-                  <br />
-                  <br />
-                  In my free time, I enjoy exploring new technologies and learning new skills which has helped me gain a deeper understanding of the industry and the latest trends.
+                  My passion for computers applications started at a young age, and since then, I have been actively pursuing my dreams of becoming a <b>full stack web developer</b>. Throughout my academic journey, I have consistently maintained a strong academic record, achieving <b>9.2 CGPA</b> in my first year.
                 </Typography>
             </div>
         </div>

@@ -7,7 +7,7 @@
   .aboutContainer {
     background-color: rgb(255, 255, 255);
     width: 60%;
-    height: 70vh;
+    height: 40vh;
     position: absolute;
     right: 0;
   
@@ -19,12 +19,12 @@
   
   .aboutContainer > p {
     text-align: right;
-    letter-spacing: 2px;
-    word-spacing: 3px;
-    line-height: 30px;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    line-height: 60px;
     color: rgba(15, 15, 15, 0.822);
-    font-size: 1vmax;
-    width: 45%;
+    font-size: 1.5vmax;
+    width: 30%;
   }
   
   .aboutContainer2 {

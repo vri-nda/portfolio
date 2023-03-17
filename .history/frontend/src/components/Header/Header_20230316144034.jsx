@@ -1,6 +1,6 @@
 import React from 'react'
 import { ReactNavbar } from "overlay-navbar";
-import logo from "../../Images/vitlogo.svg";
+import logo from "../../Images/logo.png";
 import { FaUserAlt } from "react-icons/fa";
 
 const Header = () => {
@@ -27,12 +27,12 @@ const Header = () => {
     link1Size="1.5rem"
     link1Padding="3vmax"
     logo={logo}
-    logoWidth="150px"
+    logoWidth="250px"
     logoHoverColor="hsl(250, 100%, 75%)"
-    profileIcon={true}
-    ProfileIconElement={FaUserAlt}
-    profileIconColor="HSL(250, 100%, 75%)"
-    profileIconColorHover="white"
+    // profileIcon={true}
+    // ProfileIconElement={FaUserAlt}
+    // profileIconColor="HSL(250, 100%, 75%)"
+    // profileIconColorHover="white"
     />
   )
 }

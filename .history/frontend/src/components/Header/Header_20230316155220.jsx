@@ -27,7 +27,7 @@ const Header = () => {
     link1Size="1.5rem"
     link1Padding="3vmax"
     logo={logo}
-    logoWidth="150px"
+    logoWidth="250px"
     logoHoverColor="hsl(250, 100%, 75%)"
     profileIcon={true}
     ProfileIconElement={FaUserAlt}
