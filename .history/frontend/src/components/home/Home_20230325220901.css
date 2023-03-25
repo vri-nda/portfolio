@@ -150,7 +150,7 @@
   }
 
   .homeCubeSkillsFace1 {
-    transform: translate3d(0, 0, 130px);
+    transform: translate3d(0, 0, 150px);
     /* transform: translate3d(0, 0, 100px); */
   }
   .homeCubeSkillsFace2 {
